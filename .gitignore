@@ -1,0 +1,19 @@
+# files to ignore (regex)
+
+# compiled python (binary)
+*.pyc
+
+# perfomance analysis files
+*.pyperf
+
+# test results
+InfluenzaVirusModel/TestResults
+
+# visual studio user specific settings
+*.suo
+
+#ignore images folder
+InfluenzaVirusModel/InfluenzaVirusModel/images
+dist/Program/images
+#also ignore unit tests images folder
+InfluenzaVirusModel/InfluenzaVirusModel/Unit\ Tests/images

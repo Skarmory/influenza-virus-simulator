@@ -1,0 +1,11 @@
+('C:\\Users\\Steve\\Project\\InfluenzaVirusModel\\build\\Program\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1},
+ [('out00-PYZ.pyz', 'C:\\Users\\Steve\\Project\\InfluenzaVirusModel\\build\\Program\\out00-PYZ.pyz', 'PYZ'), ('struct', 'C:\\python27\\lib\\struct.pyc', 'PYMODULE'), ('pyi_os_path', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\pyi_os_path.pyc', 'PYMODULE'), ('pyi_archive', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\pyi_archive.pyc', 'PYMODULE'), ('pyi_importers', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\pyi_importers.pyc', 'PYMODULE'), ('_pyi_bootstrap', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\_pyi_bootstrap.py', 'PYSOURCE'), ('pyi_carchive', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\pyi_carchive.py', 'PYSOURCE'), ('_pyi_egg_install.py', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\_pyi_egg_install.py', 'PYSOURCE'), ('pyi_rth_PIL_Image', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\rthooks\\pyi_rth_PIL_Image.py', 'PYSOURCE'), ('pyi_rth_Tkinter', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\rthooks\\pyi_rth_Tkinter.py', 'PYSOURCE'), ('pyi_rth_mplconfig', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\rthooks\\pyi_rth_mplconfig.py', 'PYSOURCE'), ('pyi_rth_mpldata', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\rthooks\\pyi_rth_mpldata.py', 'PYSOURCE'), ('pyi_rth_pkgres', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py', 'PYSOURCE'), ('pyi_rth_win32comgenpy', 'C:\\PyInstaller-2.1\\PyInstaller\\loader\\rthooks\\pyi_rth_win32comgenpy.py', 'PYSOURCE'), ('Program', 'InfluenzaVirusModel\\InfluenzaVirusModel\\Program.py', 'PYSOURCE'), ('Program.exe.manifest', 'C:\\Users\\Steve\\Project\\InfluenzaVirusModel\\build\\Program\\Program.exe.manifest', 'BINARY')],
+ True,
+ None,
+ False)
